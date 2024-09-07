@@ -1,0 +1,7 @@
+C:\Users\jhon\OneDrive\Documentos\Pruebas empresas\Amaris\back\KontrolarCloud\obj\Debug\net8.0\KontrolarCloud.csproj.AssemblyReference.cache
+C:\Users\jhon\OneDrive\Documentos\Pruebas empresas\Amaris\back\KontrolarCloud\obj\Debug\net8.0\KontrolarCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon\OneDrive\Documentos\Pruebas empresas\Amaris\back\KontrolarCloud\obj\Debug\net8.0\KontrolarCloud.AssemblyInfoInputs.cache
+C:\Users\jhon\OneDrive\Documentos\Pruebas empresas\Amaris\back\KontrolarCloud\obj\Debug\net8.0\KontrolarCloud.AssemblyInfo.cs
+C:\Users\jhon\OneDrive\Documentos\Pruebas empresas\Amaris\back\KontrolarCloud\obj\Debug\net8.0\KontrolarCloud.csproj.CoreCompileInputs.cache
+C:\Users\jhon\OneDrive\Documentos\Pruebas empresas\Amaris\back\KontrolarCloud\obj\Debug\net8.0\KontrolarCloud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhon\OneDrive\Documentos\Pruebas empresas\Amaris\back\KontrolarCloud\obj\Debug\net8.0\KontrolarCloud.sourcelink.json
